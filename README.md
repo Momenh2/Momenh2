@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=4th+Year+Engineering+Student;Aspiring+Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
-### 💻 Technical Toolbox
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,nextjs,html,css,git,github,linux,tensorflow,postman,vscode" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -23,10 +17,10 @@
 
 ---
 
-### 🔧 Technologies & Tools
+### 💻 Technical Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,express,tailwind,bootstrap,mongodb,mysql,git,github,linux,docker,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,nextjs,html,css,git,github,linux,tensorflow,postman,vscode" />
 </p>
 
 ---

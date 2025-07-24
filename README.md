@@ -46,6 +46,11 @@
 - 📱 [Mobile App with Flutter](https://github.com/yourusername/flutter-app)
 
 ---
+### 🏆 Certifications
+
+- 🧠 [Machine Learning Specialization – DeepLearning.AI](https://coursera.org/share/d28cc4fce40e19cf152542e642ff4774)
+
+---
 
 ### 📫 Connect with Me
 
@@ -54,6 +59,7 @@
   <a href="mailto:moemen2h@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/Momen2h/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
+
 
 ---
 

@@ -42,7 +42,7 @@
 ### 🧩 Fun Repos to Check Out
 
 - 🔨 [Awesome Portfolio Website](https://github.com/yourusername/portfolio)
-- 🤖 [AI Chatbot using Python](https://github.com/yourusername/chatbot)
+- ✈️ [TravelPlanner](https://github.com/Advanced-computer-lab-2024/JetSetGo)
 - 📱 [Mobile App with Flutter](https://github.com/yourusername/flutter-app)
 
 ---

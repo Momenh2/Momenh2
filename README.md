@@ -7,14 +7,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧾 About Me
 
-- 🎓 I'm a **4th-year Computer Science and Engineering student**
-- 👨‍💻 I enjoy working on **backend systems, web apps, and algorithms**
-- 🌱 I’m currently learning **DevOps, system design, and contributing to open source**
-- 💡 Always curious about **performance optimization** and **clean code**
-- 📫 How to reach me: **[moemen2h@gmail.com]**
-
+- 🎓 CSE Student @ German University in Cairo, Class of 2026
+- 💼 7-month Software Engineering Internship @ Valeo (Embedded & Automation Testing)
+- 👨‍💻 I enjoy building **intelligent systems**, **web applications**, and working on **deep learning models**
+- 📚 My Bachelor Thesis: **"Clothing Image Classification Using Deep Learning"**
+- 🌱 Currently learning: System Design, DevOps basics, Cloud Deployment
+- 🚀 Seeking roles in Software Engineering, ML/AI, or Full-stack Development
+- 📫 Reach me at: [moemen2h@gmail.com](mailto:moemen2h@gmail.com)
 ---
 
 ### 💻 Technical Toolbox

@@ -13,7 +13,7 @@
 - 👨‍💻 I enjoy working on **backend systems, web apps, and algorithms**
 - 🌱 I’m currently learning **DevOps, system design, and contributing to open source**
 - 💡 Always curious about **performance optimization** and **clean code**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[moemen2h@gmail.com]**
 - ⚡ Fun fact: I sometimes write technical blogs and love competitive programming!
 
 ---
@@ -29,11 +29,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MomenSherif&show_icons=true&theme=github_dark&hide=prs" alt="Momen's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Momenf&show_icons=true&theme=github_dark&hide=prs" alt="Momen's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MomenSherif&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momen&theme=github-dark-blue" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MomenSherif&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momen&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---

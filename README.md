@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momen</h1>
-<h3 align="center">A Passionate Computer Science and Engineering Student</h3>
+<h3 align="center">Final-year Computer Science and Engineering student @ GUC | Ex-Valeo Intern | MERN | ML & Deep Learning | Java | Python | React | Always Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=4th+Year+Engineering+Student;Aspiring+Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **DevOps, system design, and contributing to open source**
 - 💡 Always curious about **performance optimization** and **clean code**
 - 📫 How to reach me: **[moemen2h@gmail.com]**
-- ⚡ Fun fact: I sometimes write technical blogs and love competitive programming!
 
 ---
 

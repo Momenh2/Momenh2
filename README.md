@@ -52,8 +52,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/moemen-hesham-00b558226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://leetcode.com/yourhandle/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/yourhandle" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Momen2h/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---

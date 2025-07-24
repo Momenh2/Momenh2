@@ -50,7 +50,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/moemen-hesham-00b558226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://leetcode.com/yourhandle/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/yourhandle" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
@@ -58,13 +58,5 @@
 
 ---
 
-
-Want me to fill this in **with your actual info and links**? Just drop:
-- Your GitHub username
-- Email (optional)
-- LinkedIn / LeetCode / other profile links
-- A few notable projects (if any)
-
-And I’ll personalize it for you.
 
 -->

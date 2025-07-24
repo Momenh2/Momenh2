@@ -57,32 +57,6 @@
 
 ---
 
-### 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*You can auto-generate this blog section using GitHub Actions with a blog feed if you have one (let me know if you want help with that).*
-
----
-
-### 🔄 Dynamic GitHub Widgets
-
-Here are optional widgets to make your profile more interactive:
-- **GitHub Contributions Calendar**:  
-  `https://github.com/Ashutosh00710/github-readme-activity-graph`
-- **Profile View Counter**:  
-  `![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)`
-
----
-
-Let me know if you'd like:
-- Custom banner/header image
-- Light/dark mode switcher
-- Auto-updating blog section
-- Help deploying your portfolio site from a GitHub repo
-
----
 
 Want me to fill this in **with your actual info and links**? Just drop:
 - Your GitHub username

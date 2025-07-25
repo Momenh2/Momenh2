@@ -31,9 +31,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Momenh2&show_icons=true&theme=github_dark&hide=prs" alt="Momen's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momenh2&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Momenh2&theme=github-dark-blue" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Momenh2&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momenh2&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 

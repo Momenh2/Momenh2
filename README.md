@@ -21,7 +21,7 @@
 ### 💻 Technical Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,nextjs,html,css,git,tensorflow,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,mongodb,nextjs,html,css,git,tensorflow,postman,vscode,cs" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Momenh2&show_icons=true&theme=github_dark&hide=prs" alt="Momen's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?user=Momenh2&show_icons=true&theme=github_dark&hide=prs" alt="Momen's GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momenh2&theme=github-dark-blue" alt="GitHub Streak" />
   <br />

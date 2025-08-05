@@ -42,7 +42,7 @@
 ### 🧩 Fun Repos to Check Out
 
 - 🔨 [Awesome Portfolio Website](https://github.com/yourusername/portfolio)
-- ✈️ [TravelPlanner](https://github.com/Advanced-computer-lab-2024/JetSetGo)
+- ✈️ [TravelPlanner]((https://github.com/Momenh2/JetSetGo))
 - 📱 [Mobile App with Flutter](https://github.com/yourusername/flutter-app)
 
 ---

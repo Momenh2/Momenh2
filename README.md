@@ -28,10 +28,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Momenh2&show_icons=true&theme=github_dark&hide=prs" alt="Momen's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Momenh2&show_icons=true&theme=github_dark&hide=prs" alt="Momen's GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=Momenh2&theme=github-dark-blue" alt="GitHub Streak" />
-  <br /> -->
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momenh2&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 

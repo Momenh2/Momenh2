@@ -49,7 +49,7 @@
 ### 🏆 Certifications
 
 - 🧠 [Machine Learning Specialization – DeepLearning.AI](https://coursera.org/share/d28cc4fce40e19cf152542e642ff4774)
-- 🧠 [Google Professional Cybersecurity Certificate – Google](https://www.coursera.org/account/accomplishments/specialization/6YZDIS8BVWXY)
+- 🧠 [Google Professional Cybersecurity Certificate – Google](https://coursera.org/share/ce67f4780dd914c8820695f76f191c16)
 
 ---
 

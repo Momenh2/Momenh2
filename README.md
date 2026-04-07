@@ -13,7 +13,7 @@
 - 💼 7-month Software Engineering Internship @ Valeo (Embedded & Automation Testing)
 - 👨‍💻 I enjoy building **intelligent systems**, **web applications**, and working on **deep learning models**
 - 📚 My Bachelor Thesis: **"Clothing Image Classification Using Deep Learning"**
-- 🌱 Currently learning: CyberSecurity, Testing
+- 🌱 Currently learning: CyberSecurity, Testing , mobile applicaiton development
 - 🚀 Seeking roles in Software Engineering, ML/AI, or Full-stack Development
 - 📫 Reach me at: [moemen2h@gmail.com](mailto:moemen2h@gmail.com)
 ---
